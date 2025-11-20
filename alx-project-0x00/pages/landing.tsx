@@ -11,7 +11,7 @@ const Landing: React.FC = () => {
       <Card />
 
       <div className="mt-6 flex gap-4">
-        <Button styles="rounded-sm" />
+        <Button styles="rounded-lg" />
         <Button styles="rounded-md" />
         <Button styles="rounded-full" />
       </div>
